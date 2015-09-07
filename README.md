@@ -1,11 +1,11 @@
 # Introduction-to-Game-Development-
 Repository for CS585
 
-## Building
+## Building Instructions
 * ............
 * ............
 
-## Instructions
+## Run Instructions
 * ............
 * ............
 
